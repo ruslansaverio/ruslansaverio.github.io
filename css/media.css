@@ -1,0 +1,165 @@
+@media(max-width:928px){
+	.whyBlock h4{font-size:28px;}
+}
+
+@media(max-width:890px){
+	.whyBlock h4{font-size:26px;}
+	.serviceKorobka h5{font-size:22px;}
+	.serviceKorobka ul li{padding:2px 18px; font-size:16px;}
+	.click{font-size:18px;}
+	.serviceBlock{width:96%; margin:20px 2%;}
+	.extend{font-size:14px;}
+	.contactLeft a, .contactLeft p, .contactRight p{font-size:20px;}
+}
+
+@media(max-width:795px){
+	.whyBlock h4{width:41%; margin:15px 0 15px 3%;}
+	.rightWhy{margin:10px 3%;}
+	.centerWhy{width:94%; margin:0px 3%;}
+	.serviceKorobka{width:80%; margin:0 16% 15px 4%;}
+	.serviceKorobka h5{max-width:96%; text-align:left; padding-left:4%; margin:0;}
+	.serviceKorobka ul li{letter-spacing:1.5px;}
+}
+
+@media(max-width:775px){
+	.edge{height:750px;}
+	.screenEdge{width:780px;}
+	.edgeKorobka{
+		width:90%;
+		margin:30px 3% 0 3%;
+	}
+}
+
+@media(max-width:700px){
+	.whyBlock h4{
+		float:right;
+		width:92%;
+		margin:10px 4%;
+		text-align:right;
+	}
+	.rightWhy{width:92%; margin:0 4%;}
+	.centerWhy{width:92%; margin:0 4%;}
+	.contactLeft a, .contactLeft p, .contactRight p{font-size:18px;}
+}
+
+@media(max-width:636px){
+	h1{
+		font-size:44px;
+		left:5%;
+	}
+	@keyframes type1{
+		0%{width:0;}
+		50%{width:200px;}
+		95%{border-right:3px solid #b89d64;}
+		100%{width:335px; border-right:none;}
+	}
+	@-webkit-keyframes type1{
+		0%{width:0;}
+		50%{width:200px;}
+		95%{border-right:3px solid #b89d64;}
+		100%{width:335px; border-right:none;}
+	}
+	.contactLeft, .contactRight{width:96%;}
+	.contactRight{
+		margin-top:30px;
+		padding-left:5%;
+		padding-right:5%;
+	}
+}
+
+@media(max-width:532px){
+	h3{font-size:24px;}
+	p{font-size:16px;}
+	.whyBlock h4{font-size:20px;}
+}
+
+@media(max-width:500px){
+	.screenOne{width:600px; left:0 !important;}
+}
+
+@media(max-width:480px){
+	.serviceKorobka{width:92%; margin:0 4% 15px 4%;}
+	.contactLeft p{font-size:18px;}
+	.contactRight p{font-size:16px;}
+}
+
+@media(max-width:415px){
+	h1{
+		font-size:36px;
+		left:4%;
+	}
+	@keyframes type1{
+		0%{width:0;}
+		50%{width:130px;}
+		95%{border-right:3px solid #b89d64;}
+		100%{width:268px; border-right:none;}
+	}
+	@-webkit-keyframes type1{
+		0%{width:0;}
+		50%{width:130px;}
+		95%{border-right:3px solid #b89d64;}
+		100%{width:268px; border-right:none;}
+	}
+	h2{
+		font-size:34px;
+		right:4%;
+	}
+	@keyframes type2{
+		0%{width:0;}
+		50%{width:100px;}
+		95%{border-right:3px solid #b89d64;}
+		100%{width:245px; border-right:none;}
+	}
+	@-webkit-keyframes type2{
+		0%{width:0;}
+		50%{width:100px;}
+		95%{border-right:3px solid #b89d64;}
+		100%{width:245px; border-right:none;}
+	}
+	.rightWhy p, .centerWhy p{font-size:14px;}
+}
+
+@media(max-width:380px){
+	.contact h4{font-size:20px;}
+	.contactLeft a, .contactLeft p, .contactRight p{font-size:14px;}
+}
+
+@media(max-width:300px){
+	.menuLabel{
+		font-size:38px;
+		width:170px;
+		margin-left:-85px;
+	}
+	.line1 a{font-size:28px;}
+	h1{
+		font-size:26px;
+		left:2%;
+	}
+	@keyframes type1{
+		0%{width:0;}
+		50%{width:90px;}
+		95%{border-right:3px solid #b89d64;}
+		100%{width:190px; border-right:none;}
+	}
+	@-webkit-keyframes type1{
+		0%{width:0;}
+		50%{width:90px;}
+		95%{border-right:3px solid #b89d64;}
+		100%{width:190px; border-right:none;}
+	}
+	h2{font-size:26px;}
+	@keyframes type2{
+		0%{width:0;}
+		50%{width:80px;}
+		95%{border-right:3px solid #b89d64;}
+		100%{width:183px; border-right:none;}
+	}
+	@-webkit-keyframes type2{
+		0%{width:0;}
+		50%{width:100px;}
+		95%{border-right:3px solid #b89d64;}
+		100%{width:245px; border-right:none;}
+	}
+	h3{font-size:22px;}
+	.whyBlock h4{font-size:16px;}
+}
